@@ -1,0 +1,11 @@
+.singnOut {
+    color: blue;
+    font-size: 20px;
+}
+
+.nav {
+    background-color: rgb(0, 255, 0);
+    position: fixed;
+    top: 0;
+
+}
